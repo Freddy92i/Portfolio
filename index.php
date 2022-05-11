@@ -26,10 +26,65 @@
         <div class="home-hero__content">
           <h1 class="heading-primary">Saluut, Je m'apelle Freddy Peltier</h1>
           <div class="home-hero__info">
-            <p class="text-primary">
-              21 ans. Caen. 
+            <div class="herof1">
+            <div id="Container">
+              <div id="nose-top"></div>
+              <div id="nose-bottom"></div>
+              <div id="nose"></div>
+              <div id="front-wing"></div>
+              <div id="top-front-wing-trim"></div>
+              <div id="bottom-front-wing-trim"></div>
+              <div id="top-front-wing-trim-2"></div>
+              <div id="bottom-front-wing-trim-2"></div>
+              <div id="top-front-wing"></div>
+              <div id="top-front-wing-tail"></div>
+              <div id="bottom-front-wing"></div>
+              <div id="bottom-front-wing-tail"></div>
+              <div id="bottom-front-wheel" class="wheel"></div>
+              <div id="bottom-back-wheel"></div>
+              <div id="top-front-wheel" class="wheel"></div>
+              <div id="top-back-wheel"></div>
+              <div id="rear-body"></div>
+              <div id="rear-wing-bg"></div>
+              <div id="rear-wing"></div>
+              <div id="top-body-curve"></div>
+              <div id="top-body-curve-cut"></div>
+              <div id="top-body-curve-straight"></div>
+              <div id="top-body-curve-straight-2"></div>
+              <div id="bottom-body-curve"></div>
+              <div id="bottom-body-curve-cut"></div>
+              <div id="bottom-body-curve-straight"></div>
+              <div id="bottom-body-curve-straight-2"></div>
+              <div id="back-body-curve"></div>
+              <div id="body-hood"></div>
+              <div id="back-body"></div>
+              <div id="back-body-top"></div>
+              <div id="back-body-bottom"></div>
+              <div id="back-body-2"></div>
+              <div id="top-spoke-1"></div>
+              <div id="top-spoke-2"></div>
+              <div id="top-spoke-3"></div>
+              <div id="top-spoke-4"></div>
+              <div id="bottom-spoke-1"></div>
+              <div id="bottom-spoke-2"></div>
+              <div id="bottom-spoke-3"></div>
+              <div id="bottom-spoke-4"></div>
 
-            </p>
+              <div id="back-spoke"></div>
+
+              <div id="mirror-top"></div>
+              <div id="mirror-bottom"></div>
+              <div id="driver-bg"></div>
+              <div id="driver-wheel"></div>
+              <div id="driver-helmet"></div>
+              <div id="bottom-body-spine"></div>
+              <div id="top-body-spine"></div>
+              <div id="end-body-spine"></div>
+              <div id="top-body-spine-2"></div>
+              <div id="bottom-body-spine-2"></div>
+            </div> 
+
+            </div class="herof1">
             <p class="text-primary">
               swipe pour de découvrir d'avantages.
             </p>
@@ -150,6 +205,7 @@
                   class="Projets__row-img"
                   loading="lazy"
                 />
+                <img src="./assets/jpeg/mediatheque.jpeg" alt="screenshot de la mediatheque" class="imgmediatheque" loading="lazy"  />
               </div>
               <div class="Projets__row-content">
                 <h3 class="Projets__row-content-title">Mediatheque</h3>
@@ -173,6 +229,12 @@
                   class="Projets__row-img"
                   loading="lazy"
                 />
+                <img 
+                src="./assets/jpeg/mediatheque.jpeg" 
+                alt="screenshot de la mediatheque" 
+                class="imgmediatheque" 
+                loading="lazy"  />
+
               </div>
               <div class="Projets__row-content">
                 <h3 class="Projets__row-content-title">PPEJDR</h3>
@@ -197,6 +259,12 @@
                   class="Projets__row-img"
                   loading="lazy"
                 />
+                <img 
+                src="./assets/jpeg/mediatheque.jpeg" 
+                alt="screenshot de la mediatheque" 
+                class="imgmediatheque" 
+                loading="lazy"  />
+
               </div>
               <div class="Projets__row-content">
                 <h3 class="Projets__row-content-title">projet en swift ?</h3>
@@ -210,7 +278,7 @@
                   class="btn btn--med btn--theme dynamicBgClr"
                   target="_blank"
                   >En savoir plus</a
-                >
+>
               </div>
             </div>
           </div>
