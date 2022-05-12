@@ -200,12 +200,11 @@
             <div class="Projets__row">
               <div class="Projets__row-img-cont">
                 <img
-                  src="./assets/jpeg/Projet-mockup-example.jpeg"
+                  src="./assets/jpeg/projet-mockup-mediatheque.jpeg"
                   alt="Software Screenshot"
                   class="Projets__row-img"
                   loading="lazy"
                 />
-                <img src="./assets/jpeg/screen-mediatheque.jpeg" alt="screenshot de la mediatheque" class="imgmediatheque" loading="lazy"  />
               </div>
               <div class="Projets__row-content">
                 <h3 class="Projets__row-content-title">Mediatheque</h3>
@@ -224,17 +223,11 @@
             <div class="Projets__row">
               <div class="Projets__row-img-cont">
                 <img
-                  src="./assets/jpeg/Projet-mockup-example.jpeg"
+                  src="./assets/jpeg/projet-mockup-ppejdr.jpeg"
                   alt="Software Screenshot"
                   class="Projets__row-img"
                   loading="lazy"
                 />
-                <img 
-                src="./assets/jpeg/screen-mediatheque.jpeg" 
-                alt="screenshot de la mediatheque" 
-                class="imgmediatheque" 
-                loading="lazy"  />
-
               </div>
               <div class="Projets__row-content">
                 <h3 class="Projets__row-content-title">PPEJDR</h3>
@@ -254,17 +247,11 @@
             <div class="Projets__row">
               <div class="Projets__row-img-cont">
                 <img
-                  src="./assets/jpeg/Projet-mockup-example.jpeg"
+                  src="./assets/jpeg/projet-mockup-swift.jpeg"
                   alt="Software Screenshot"
                   class="Projets__row-img"
                   loading="lazy"
                 />
-                <img 
-                src="./assets/jpeg/screen-mediatheque.jpeg" 
-                alt="screenshot de la mediatheque" 
-                class="imgmediatheque" 
-                loading="lazy"  />
-
               </div>
               <div class="Projets__row-content">
                 <h3 class="Projets__row-content-title">projet en swift ?</h3>
