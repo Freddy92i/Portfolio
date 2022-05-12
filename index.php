@@ -205,7 +205,7 @@
                   class="Projets__row-img"
                   loading="lazy"
                 />
-                <img src="./assets/jpeg/mediatheque.jpeg" alt="screenshot de la mediatheque" class="imgmediatheque" loading="lazy"  />
+                <img src="./assets/jpeg/screen-mediatheque.jpeg" alt="screenshot de la mediatheque" class="imgmediatheque" loading="lazy"  />
               </div>
               <div class="Projets__row-content">
                 <h3 class="Projets__row-content-title">Mediatheque</h3>
@@ -214,7 +214,7 @@
                   une gestion des rôles utilisateurs, des formulaires sécurisés, ainsi qu'un penchant pour les border radius.
                 </p>
                 <a
-                  href="./Projet-1.html"
+                  href="./Projet-1.php"
                   class="btn btn--med btn--theme dynamicBgClr"
                   target="_blank"
                   >En savoir plus</a
@@ -230,7 +230,7 @@
                   loading="lazy"
                 />
                 <img 
-                src="./assets/jpeg/mediatheque.jpeg" 
+                src="./assets/jpeg/screen-mediatheque.jpeg" 
                 alt="screenshot de la mediatheque" 
                 class="imgmediatheque" 
                 loading="lazy"  />
@@ -244,7 +244,7 @@
                   praesentium.
                 </p>
                 <a
-                  href="./Projet-2.html"
+                  href="./Projet-2.php"
                   class="btn btn--med btn--theme dynamicBgClr"
                   target="_blank"
                   >En savoir plus</a
@@ -260,7 +260,7 @@
                   loading="lazy"
                 />
                 <img 
-                src="./assets/jpeg/mediatheque.jpeg" 
+                src="./assets/jpeg/screen-mediatheque.jpeg" 
                 alt="screenshot de la mediatheque" 
                 class="imgmediatheque" 
                 loading="lazy"  />
@@ -274,7 +274,7 @@
                   praesentium.
                 </p>
                 <a
-                  href="./Projet-3.html"
+                  href="./Projet-3.php"
                   class="btn btn--med btn--theme dynamicBgClr"
                   target="_blank"
                   >En savoir plus</a
