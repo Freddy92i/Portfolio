@@ -89,8 +89,8 @@
                 >Live Link</a
               >
               <a
-                href="#"
-                class="btn btn--med btn--theme-inv Projet-details__links-btn"
+                href="https://github.com/Freddy92i/mediatheque"
+                class="btn_codelink"
                 target="_blank"
                 >Code Link</a
               >
