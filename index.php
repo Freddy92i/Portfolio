@@ -213,7 +213,7 @@
                   une gestion des rôles utilisateurs, des formulaires sécurisés, ainsi qu'un penchant pour les border radius.
                 </p>
                 <a
-                  href="./Projet-1.php"
+                  href="./projet-1.php"
                   class="btn btn--med btn--theme dynamicBgClr"
                   target="_blank"
                   >En savoir plus</a
@@ -237,7 +237,7 @@
                   praesentium.
                 </p>
                 <a
-                  href="./Projet-2.php"
+                  href="./projet-2.php"
                   class="btn btn--med btn--theme dynamicBgClr"
                   target="_blank"
                   >En savoir plus</a
@@ -261,7 +261,7 @@
                   praesentium.
                 </p>
                 <a
-                  href="./Projet-3.php"
+                  href="./projet-3.php"
                   class="btn btn--med btn--theme dynamicBgClr"
                   target="_blank"
                   >En savoir plus</a
