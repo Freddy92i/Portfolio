@@ -29,7 +29,7 @@
           </p>
         </div>
         <div class="Projet-cs-hero__cta">
-          <a href="#" class="btn btn--bg" target="_blank">Live Link</a>
+          <a href="../mediatheque/index.php" class="btn btn--bg" target="_blank">Live Link</a>
         </div>
       </div>
     </section>
@@ -83,13 +83,13 @@
             <div class="Projet-details__links">
               <h3 class="Projet-details__content-title">See Live</h3>
               <a
-                href="#"
+                href="../mediatheque/index.php"
                 class="btn btn--med btn--theme Projet-details__links-btn"
                 target="_blank"
                 >Live Link</a
               >
               <a
-                href="#"
+                href="https://github.com/Freddy92i/Mediatheque
                 class="btn btn--med btn--theme-inv Projet-details__links-btn"
                 target="_blank"
                 >Code Link</a
