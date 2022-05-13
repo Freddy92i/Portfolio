@@ -38,7 +38,7 @@
         <div class="Projet-details__content">
           <div class="Projet-details__showcase-img-cont">
             <img
-              src="./assets/jpeg/Projet-mockup-example.jpeg"
+              src="./assets/imgprojet/screen-mediatheque.jpeg"
               alt="Projet Image"
               class="Projet-details__showcase-img"
             />
@@ -90,7 +90,7 @@
               >
               <a
                 href="https://github.com/Freddy92i/mediatheque"
-                class="btn_codelink"
+                class="btn btn--med btn--theme Projet-details__links-btn"
                 target="_blank"
                 >Code Link</a
               >

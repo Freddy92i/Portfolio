@@ -192,7 +192,7 @@ textarea {
   width: 100%;
   line-height: 1.6;
   position: relative;
-  top: 150px; }
+  top: 120px; }
   @media only screen and (max-width: 37.5em) {
 
 .text-primary {
@@ -734,7 +734,9 @@ textarea {
       animation-direction:normal;
       -webkit-animation:entrance 2s 1;
       -webkit-animation-direction:normal;
+      
     }
+    
     #Container div{
       position: absolute;
       opacity: 1;
@@ -1298,7 +1300,7 @@ textarea {
     -webkit-border-radius: 20px 50px 50px 20px;
     border-radius: 20px 50px 50px 20px;
   } 
-}
+
 .btn_codelink{
     margin-right: 0;
     width: 70%;
@@ -1318,3 +1320,4 @@ textarea {
     text-decoration:none;
     cursor: pointer;
 }
+

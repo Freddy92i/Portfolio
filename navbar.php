@@ -23,7 +23,7 @@
               <a href="./index.php#Projets" class="header__link">Projets</a>
             </li>
             <li class="header__link-wrapper">
-              <a href="./Contact.php" class="header__link"> Contact </a>
+              <a href="./contact.php" class="header__link"> Contact </a>
             </li>
           </ul>
           <div class="header__main-ham-menu-cont">
@@ -56,7 +56,7 @@
             </li>
 
             <li class="header__sm-menu-link">
-              <a href="./index.php#contact"> Contact </a>
+              <a href="./contact.php"> Contact </a>
             </li>
           </ul>
         </div>
