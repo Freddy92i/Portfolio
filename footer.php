@@ -40,7 +40,7 @@
           <div class="main-footer__row main-footer__row-2">
             <h4 class="heading heading-sm text-lt">Freddy Peltier</h4>
             <p class="main-footer__short-desc">
-              N'hesitez pas a me contacter pour plus d'informations sur moi.
+              N'hésitez pas à me contacter pour plus d'informations sur moi.
             </p>
           </div>
         </div>

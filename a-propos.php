@@ -52,7 +52,7 @@
             <div class="Projet-details__desc">
               <h3 class="Projet-details__content-title">Section Personnel</h3>
               <p class="Projet-details__desc-para">
-                J'adore les sport mécnaique comme la formule 1, le rally, L'indycar. Je suis passionné également de photographie (vous avez le lien de mon instagram
+                J'adore les sport mécnaique comme la formule 1 (comme vous avez pu voir sur la page d'accueil ^^), le rally, L'indycar. Je suis passionné également de photographie (vous avez le lien de mon instagram
                 a l'accueil) je possède un appareil photo relex Canon EOS 1300D avec quelques objectifs, je pratique la photographie a mes heures perdues.
               </p>
               <p class="Projet-details__desc-para">

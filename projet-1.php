@@ -66,35 +66,27 @@
               </p>
             </div>
             <div class="Projet-details__tools-used">
-              <h3 class="Projet-details__content-title">Tools Used</h3>
+              <h3 class="Projet-details__content-title">Outils utilisés</h3>
               <div class="skills">
                 <div class="skills__skill">HTML</div>
                 <div class="skills__skill">CSS</div>
-                <div class="skills__skill">JavaScript</div>
-                <div class="skills__skill">React</div>
-                <div class="skills__skill">SASS</div>
+                <div class="skills__skill">SCSS</div>
                 <div class="skills__skill">GIT</div>
-                <div class="skills__skill">Shopify</div>
-                <div class="skills__skill">Wordpress</div>
-                <div class="skills__skill">Google ADS</div>
-                <div class="skills__skill">Facebook Ads</div>
-                <div class="skills__skill">Android</div>
-                <div class="skills__skill">IOS</div>
               </div>
             </div>
             <div class="Projet-details__links">
-              <h3 class="Projet-details__content-title">See Live</h3>
+              <h3 class="Projet-details__content-title">En voir plus</h3>
               <a
                 href="../mediatheque/index.php"
                 class="btn btn--med btn--theme Projet-details__links-btn"
                 target="_blank"
-                >Live Link</a
+                >Demo</a
               >
               <a
                 href="https://github.com/Freddy92i/mediatheque"
                 class="btn btn--med btn--theme Projet-details__links-btn"
                 target="_blank"
-                >Code Link</a
+                >Code source</a
               >
             </div>
           </div>

@@ -26,7 +26,7 @@
     <body>
       <section class="home-hero">
         <div class="home-hero__content">
-          <h1 class="heading-primary">Saluut, Je m'apelle Freddy Peltier</h1>
+          <h1 class="heading-primary">Salut, Je m'apelle Freddy Peltier</h1>
           <div class="home-hero__info">
             <div class="herof1">
             <div id="Container">
@@ -155,14 +155,14 @@
               <h3 class="a-propos__content-title">Apprenez a me connaitre !</h3>
               <div class="a-propos__content-details">
                 <p class="a-propos__content-details-para">
-                  Salut ! moi c'est 
+                  Salut ! Moi c'est 
                   <strong>Freddy Peltier</strong>
-                  et je suis  <strong> Frontend Web Developer </strong> Je suis sur Caen. J'ai fais
+                  et je suis  <strong> Frontend Web Developer </strong> J'habite sur Caen. J'ai fais
                   des projets en cours mais aussi de mon coté, et je vous laisse découvrir ça juste en dessous.
                 </p>
                 <p class="a-propos__content-details-para">
-                  Je suis un peu un nerd mais j'aime ça . A travers les années, j'ai usée toutes sorte d'applications
-                  et de site web pour m'inspirer personnelement. N'hesitez pas a me 
+                  Je suis un peu un nerd mais j'aime ça . À travers les années, j'ai utilisé toutes sorte d'applications
+                  et de site web pour m'inspirer personnelement. N'hesitez pas à me 
                   <strong>contacter</strong> ici.
                 </p>
               </div>
@@ -194,7 +194,7 @@
           <h2 class="heading heading-sec heading-sec__mb-bg">
             <span class="heading-sec__main">Projets</span>
             <span class="heading-sec__sub">
-              Dans ma vie étudiante en informatique, j'ai eu la possibilité de travailler sur pas mal de projets que voici.
+              Dans ma vie d'étudiant en informatique, j'ai eu la possibilité de travailler sur beaucoup de projets que voici.
             </span>
           </h2>
 
@@ -211,7 +211,7 @@
               <div class="Projets__row-content">
                 <h3 class="Projets__row-content-title">Mediatheque</h3>
                 <p class="Projets__row-content-desc">
-                  Une Mediatheque qui nous permet de voir quels films sont disponible a voir, ce site comporte
+                  Une Mediatheque qui permet de voir quels films il est possible de visionner maintenant, ce site comporte
                   une gestion des rôles utilisateurs, des formulaires sécurisés, ainsi qu'un penchant pour les border radius.
                 </p>
                 <a
@@ -256,7 +256,7 @@
                 />
               </div>
               <div class="Projets__row-content">
-                <h3 class="Projets__row-content-title">projet en swift ?</h3>
+                <h3 class="Projets__row-content-title">projet 3</h3>
                 <p class="Projets__row-content-desc">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic
                   facilis tempora, explicabo quae quod deserunt eius sapiente

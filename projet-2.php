@@ -83,18 +83,18 @@
               </div>
             </div>
             <div class="Projet-details__links">
-              <h3 class="Projet-details__content-title">See Live</h3>
+              <h3 class="Projet-details__content-title">En voir plus</h3>
               <a
                 href="#"
                 class="btn btn--med btn--theme Projet-details__links-btn"
                 target="_blank"
-                >Live Link</a
+                >Demo</a
               >
               <a
                 href="#"
                 class="btn btn--med btn--theme-inv Projet-details__links-btn"
                 target="_blank"
-                >Code Link</a
+                >Code Source</a
               >
             </div>
           </div>
