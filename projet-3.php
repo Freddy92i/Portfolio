@@ -8,6 +8,8 @@
     <meta name="description" content="Case study page of Projet" />
 
     <link rel="stylesheet" href="css/style.css" />
+    <link rel="logo" href="./assets/png/freddy-peltier.png" type="image/png" />
+
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />

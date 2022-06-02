@@ -7,6 +7,8 @@
         <meta name="description" content="Portfolio frontend web Developer" />
 
         <link rel="stylesheet" href="css/style.css" />
+        <link rel="logo" href="./assets/png/freddy-peltier.png" type="image/png" />
+
 
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -16,10 +18,9 @@
     <section id="contact" class="contact sec-pad dynamicBg">
       <div class="main-container">
         <h2 class="heading heading-sec heading-sec__mb-med">
-          <span class="heading-sec__main heading-sec__main--lt">Contact</span>
+          <span class="heading-sec__main heading-sec__main--lt">Contactez-Moi</span>
           <span class="heading-sec__sub heading-sec__sub--lt">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic facilis
-            tempora explicabo quae quod deserunt eius sapiente
+            Si vous voulez me contacter, n'hésitez pas a me contacter via le formulaire ci-dessous, et je vous répondrais dès que possible
           </span>
         </h2>
         <div class="contact__form-container">

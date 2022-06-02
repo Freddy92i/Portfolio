@@ -17,7 +17,7 @@
               <a href="./index.php" class="header__link"> Home </a>
             </li>
             <li class="header__link-wrapper">
-              <a href="./index.php#a-propos" class="header__link">a-propos </a>
+              <a href="./a-propos.php" class="header__link">a-propos </a>
             </li>
             <li class="header__link-wrapper">
               <a href="./index.php#Projets" class="header__link">Projets</a>
