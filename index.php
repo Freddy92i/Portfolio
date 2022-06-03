@@ -166,8 +166,8 @@
                   <strong>contacter</strong> ici.
                 </p>
               </div>
-              <a href="./#contact" class="btn btn--med btn--theme dynamicBgClr"
-                >Contact</a
+              <a href="./contact.php" class="btn btn--med btn--theme dynamicBgClr"
+                >Contactez-moi</a
               >
             </div>
             <div class="a-propos__content-skills">
