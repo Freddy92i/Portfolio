@@ -27,41 +27,14 @@
           <form action="#" class="contact__form">
             <div class="contact__form-field">
               <label class="contact__form-label" for="email">Email</label>
-              <input
-                required
-                placeholder="Entrer votre Email"
-                type="text"
-                class="contact__form-input"
-                name="email"
-                id="email"
-              />
+              <a id="mail" href="mailto:freddypeltier21@outlook.fr">freddypeltier21@outlook.fr</a>
             </div>
             <div class="contact__form-field">
-              <label class="contact__form-label" for="message">Message</label>
-              <textarea
-                required
-                cols="30"
-                rows="10"
-                class="contact__form-input"
-                placeholder="Entrer votre message"
-                name="message"
-                id="message"
-              ></textarea>
+              <label class="contact__form-label" for="message">Téléphone</label>
+              <a id="phonenum">07&nbsp;71&nbsp;13&nbsp;61&nbsp;38</a>
             </div>
-            <button type="submit" class="btn btn--theme contact__btn">
-              Envoyer
-            </button>
           </form>
-          <?php
-    if (isset($_POST['message'])) {
-      $entete  = 'MIME-Version: 1.0' . "\r\n";
-      $entete .= 'Content-type: text/html; charset=utf-8' . "\r\n";
-      $entete .= 'Reply-to: ' . $_POST['email'];
-        $retour = mail('freddypeltier21@outlook.fr', 'Envoi depuis la page Contact', $_POST['message'], 'From: ' . "\r\n" . 'Reply-to: ' . $_POST['email']);
-        if($retour)
-            echo '<p>Votre message a bien été envoyé.</p>';
-    }
-    ?>
+          
         </div>
       </div>
     </section>

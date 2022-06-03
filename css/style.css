@@ -1320,4 +1320,25 @@ textarea {
     text-decoration:none;
     cursor: pointer;
 }
-
+#mail{
+  color: #666;
+  font-size: 1.4rem;
+  letter-spacing: 1px;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  display: block;
+  text-align: left;
+  position: relative;
+  left: 20px;
+}
+#phonenum{
+  color: #666;
+  font-size: 1.4rem;
+  letter-spacing: 1px;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  display: block;
+  text-align: left;
+  position: relative;
+  left: 20px;
+}
