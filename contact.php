@@ -27,11 +27,31 @@
           <div action="#" class="contact__form">
             <div class="contact__form-field">
               <label class="contact__form-label" for="email">Email</label>
-              <a class="mail" href="mailto:freddypeltier21@outlook.fr">freddypeltier21@outlook.fr</a>
+              <a class="mail" href="mailto:freddypeltier21@outlook.fr" 
+              style="color: #666;
+                font-size: 1.4rem;
+                letter-spacing: 1px;
+                font-weight: 700;
+                margin-bottom: 1rem;
+                display: block;
+                text-align: left;
+                position: relative;
+                left: 20px;">
+                freddypeltier21@outlook.fr</a>
             </div>
             <div class="contact__form-field">
               <label class="contact__form-label" for="message">Téléphone</label>
-              <a class="phonenum">07&nbsp;71&nbsp;13&nbsp;61&nbsp;38</a>
+              <a class="phonenum"
+              style="color: #666;
+                font-size: 1.4rem;
+                letter-spacing: 1px;
+                font-weight: 700;
+                margin-bottom: 1rem;
+                display: block;
+                text-align: left;
+                position: relative;
+                left: 20px;">
+                07&nbsp;71&nbsp;13&nbsp;61&nbsp;38</a>
             </div> 
           </div>
           
