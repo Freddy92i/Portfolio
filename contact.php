@@ -24,16 +24,16 @@
           </span>
         </h2>
         <div class="contact__form-container">
-          <form action="#" class="contact__form">
+          <div action="#" class="contact__form">
             <div class="contact__form-field">
               <label class="contact__form-label" for="email">Email</label>
-              <a id="mail" href="mailto:freddypeltier21@outlook.fr">freddypeltier21@outlook.fr</a>
+              <a class="mail" href="mailto:freddypeltier21@outlook.fr">freddypeltier21@outlook.fr</a>
             </div>
             <div class="contact__form-field">
               <label class="contact__form-label" for="message">Téléphone</label>
-              <a id="phonenum">07&nbsp;71&nbsp;13&nbsp;61&nbsp;38</a>
-            </div>
-          </form>
+              <a class="phonenum">07&nbsp;71&nbsp;13&nbsp;61&nbsp;38</a>
+            </div> 
+          </div>
           
         </div>
       </div>

@@ -1320,7 +1320,7 @@ textarea {
     text-decoration:none;
     cursor: pointer;
 }
-#mail{
+.mail{
   color: #666;
   font-size: 1.4rem;
   letter-spacing: 1px;
@@ -1331,7 +1331,7 @@ textarea {
   position: relative;
   left: 20px;
 }
-#phonenum{
+.phonenum{
   color: #666;
   font-size: 1.4rem;
   letter-spacing: 1px;
