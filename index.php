@@ -234,9 +234,8 @@
               <div class="Projets__row-content">
                 <h3 class="Projets__row-content-title">PPEJDR</h3>
                 <p class="Projets__row-content-desc">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic
-                  facilis tempora, explicabo quae quod deserunt eius sapiente
-                  praesentium.
+                   C'est un projet que j'ai fait en deuxième année de BTS pour pouvoir le présenter lors de mes oraux de BTS.
+                    Il s'agit d'un jeu de rôle, où l'on peut rejoindre une partie lancer par le maitre du jeu.
                 </p>
                 <a
                   href="./projet-2.php"
