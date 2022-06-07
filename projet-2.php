@@ -25,13 +25,12 @@
         <h1 class="heading-primary">PPE Jeux de Rôles</h1>
         <div class="Projet-cs-hero__info">
           <p class="text-primary1">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos
-            in numquam incidunt earum quaerat cum fuga, atque similique natus
-            nobis sit.
+          C'est un projet que j'ai fait en deuxième année de BTS pour pouvoir le présenter lors de mes oraux de BTS.
+
           </p>
         </div>
         <div class="Projet-cs-hero__cta">
-          <a href="#" class="btn btn--bg" target="_blank">Démonstration</a>
+          <a href="https://drive.google.com/drive/folders/1ccqROGCaKFWiNcWgyXG5wWUFkv53ePzZ?usp=sharing" class="btn btn--bg" target="_blank">Démonstration</a>
         </div>
       </div>
     </section>
@@ -49,49 +48,36 @@
             <div class="Projet-details__desc">
               <h3 class="Projet-details__content-title">Projet Overview</h3>
               <p class="Projet-details__desc-para">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque
-                alias tenetur minus quaerat aliquid, aut provident blanditiis,
-                deleniti aspernatur ipsam eaque veniam voluptatem corporis vitae
-                mollitia laborum corrupti ullam rem. Lorem ipsum dolor sit amet
-                consectetur adipisicing elit. Neque alias tenetur minus quaerat
-                aliquid, aut provident blanditiis, deleniti aspernatur ipsam
-                eaque veniam voluptatem corporis vitae mollitia laborum corrupti
-                ullam rem?
+                Ce projet est un jeu de rôle, il nous permet de pouvoir creer son personnage, le modifier ou le supprimer, on peut gerer aussi ses statistiques,
+                il y a un chat pour communiquer avec les autres joueurs durant la partie. Nous avons aussi la partie administrateur/ Maitre du jeu, qui peut creer et lancer
+                une partie, ainsi que la possiblité de donner des avantages ou malus a certains joueurs. Il utilise aussi une api pour lier les données du chat ainsi que les
+                statistique des joueurs.
               </p>
               <p class="Projet-details__desc-para">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque
-                alias tenetur minus quaerat aliquid, aut provident blanditiis,
-                deleniti aspernatur ipsam eaque veniam voluptatem corporis vitae
-                mollitia laborum corrupti ullam rem?
+                Pour pouvoir lancer le logiciel, vous devez cliquer sur le lien "Démo", qui vous mène au google drive, vous devez télécharger le logiciel, et entrez les infos suivantes :
+                user : adminppe et password : P@ssword1 . Ensuite vous aurez accès au logiciel.
               </p>
             </div>
             <div class="Projet-details__tools-used">
               <h3 class="Projet-details__content-title">Tools Used</h3>
               <div class="skills">
-                <div class="skills__skill">HTML</div>
-                <div class="skills__skill">CSS</div>
-                <div class="skills__skill">JavaScript</div>
-                <div class="skills__skill">React</div>
-                <div class="skills__skill">SASS</div>
+                <div class="skills__skill">Visual Studio</div>
+                <div class="skills__skill">API</div>
                 <div class="skills__skill">GIT</div>
-                <div class="skills__skill">Shopify</div>
-                <div class="skills__skill">Wordpress</div>
-                <div class="skills__skill">Google ADS</div>
-                <div class="skills__skill">Facebook Ads</div>
+                <div class="skills__skill">Windows Forms</div>
                 <div class="skills__skill">Android</div>
-                <div class="skills__skill">IOS</div>
               </div>
             </div>
             <div class="Projet-details__links">
               <h3 class="Projet-details__content-title">En voir plus</h3>
               <a
-                href="#"
+                href="https://drive.google.com/drive/folders/1ccqROGCaKFWiNcWgyXG5wWUFkv53ePzZ?usp=sharing"
                 class="btn btn--med btn--theme Projet-details__links-btn"
                 target="_blank"
                 >Demo</a
               >
               <a
-                href="#"
+                href="https://github.com/Freddy92i/PPE-jeu-de-role"
                 class="btn btn--med btn--theme-inv Projet-details__links-btn"
                 target="_blank"
                 >Code Source</a

@@ -22,16 +22,14 @@
   <body>
     <section class="Projet-cs-hero">
       <div class="Projet-cs-hero__content">
-        <h1 class="heading-primary">Projet 1</h1>
+        <h1 class="heading-primary">La Médiatheque</h1>
         <div class="Projet-cs-hero__info">
           <p class="text-primary1">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos
-            in numquam incidunt earum quaerat cum fuga, atque similique natus
-            nobis sit.
+            C'est un projet que j'ai fait en première année de BTS et que j'ai pofiner et améliorer dans mon coin pour pouvoir le présenter lors de mes oraux de BTS.
           </p>
         </div>
         <div class="Projet-cs-hero__cta">
-          <a href="../mediatheque/index.php" class="btn btn--bg" target="_blank">Live Link</a>
+          <a href="../mediatheque/index.php" class="btn btn--bg" target="_blank">Démo</a>
         </div>
       </div>
     </section>
@@ -47,22 +45,15 @@
           </div>
           <div class="Projet-details__content-main">
             <div class="Projet-details__desc">
-              <h3 class="Projet-details__content-title">Projet Overview</h3>
+              <h3 class="Projet-details__content-title">Contenu du projet</h3>
               <p class="Projet-details__desc-para">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque
-                alias tenetur minus quaerat aliquid, aut provident blanditiis,
-                deleniti aspernatur ipsam eaque veniam voluptatem corporis vitae
-                mollitia laborum corrupti ullam rem. Lorem ipsum dolor sit amet
-                consectetur adipisicing elit. Neque alias tenetur minus quaerat
-                aliquid, aut provident blanditiis, deleniti aspernatur ipsam
-                eaque veniam voluptatem corporis vitae mollitia laborum corrupti
-                ullam rem?
+                Ce projet est une médiatheque, elle permet au utilisateur de voir quels films sont disponible au visionnage, ainsi que d'avoir les horraires et toutes autres infos
+                sur la médiatheque. Elle comprend des formulaire sécurisés, des protections contre les injections de code. 
               </p>
               <p class="Projet-details__desc-para">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque
-                alias tenetur minus quaerat aliquid, aut provident blanditiis,
-                deleniti aspernatur ipsam eaque veniam voluptatem corporis vitae
-                mollitia laborum corrupti ullam rem?
+                Pour le coté administrateur, une interface pour pouvoir 
+                ajouter, modifier et supprimer des utilisateurs et une autre qui permet d'ajouter, modifier et supprimer des films. Chaque films contient les infos suivantes : nom, durée, réalisateurs,
+                genre, ainsi que les affiches du films.
               </p>
             </div>
             <div class="Projet-details__tools-used">
@@ -80,7 +71,7 @@
                 href="../mediatheque/index.php"
                 class="btn btn--med btn--theme Projet-details__links-btn"
                 target="_blank"
-                >Demo</a
+                >Démo</a
               >
               <a
                 href="https://github.com/Freddy92i/mediatheque"
